@@ -13,3 +13,8 @@ This test plan covers the following components:
 - Item creation via "+" button
 - Validation on required item fields
 - Known issue: App crashes when navigating to Inventory tab with 0 items [bug/001-inventory-page-crash]
+## Test Environment
+- Device: Android 12 (Pixel 5)
+- Browser: Chrome 124
+- Network: 4G LTE (variable)
+- Backend: Staging environment
